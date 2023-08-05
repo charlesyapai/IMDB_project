@@ -6,7 +6,7 @@ This project aims to understand and optimize gross worldwide revenue using the I
 ## Project Structure
 .
 ├── data_scraping
-│   └── scraping_setup.ipynb
+│    └── scraping_setup.ipynb
 ├── data_cleaning
 │   ├── Demonstration_Cleaning.ipynb
 │   └── more_details_cleaning.ipynb
