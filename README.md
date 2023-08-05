@@ -1,4 +1,4 @@
-#IMDB Revenue Optimization Project
+# IMDB Revenue Optimization Project
 
 This project aims to understand and optimize gross worldwide revenue using the IMDB dataset. The project involves various stages: data scraping, cleaning, exploratory data analysis, topic modeling, and some demonstrations.
 
